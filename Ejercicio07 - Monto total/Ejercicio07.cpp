@@ -1,4 +1,4 @@
-// 7. Una importante cadena de delivery cuenta con una promociÃ³n por tiempo limitado en la que otorga un 15% 
+// 7. Una importante cadena de delivery cuenta con una promoción por tiempo limitado en la que otorga un 15% 
 //    de descuento sobre el total del valor de la compra realizada. Hacer un programa para solicitar el monto 
 //    total y el mismo calcule y emita por pantalla el total a cobrar con el descuento aplicado.
 
@@ -22,4 +22,3 @@ int main()
     cout << "Monto total a pagar: $" << VT << endl;
     return 0;
 }
-

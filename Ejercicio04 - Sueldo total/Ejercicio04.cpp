@@ -1,4 +1,4 @@
-// 4. Una casa de computaci√≥n paga a sus empleados un sueldo fijo de ARS15000 m√°s una comisi√≥n del 5% sobre el 
+// 4. Una casa de computaciÛn paga a sus empleados un sueldo fijo de ARS15000 m·s una comisiÛn del 5% sobre el 
 //    total facturado por cada empleado. Hacer un programa para ingresar el total facturado por un empleado y 
 //    que luego calcule y emita por pantalla el sueldo total a cobrar por el mismo.
 
@@ -22,4 +22,3 @@ int main()
     cout << "\nTu salario neto es: $" << ST << endl;
     return 0;
 }
-

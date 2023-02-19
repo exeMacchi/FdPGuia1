@@ -1,6 +1,6 @@
-// 9. Hacer un programa que permita ingresar por teclado dos nÃºmeros y que luego muestre por pantalla la suma, 
-//    la resta, la multiplicaciÃ³n y la divisiÃ³n de dichos nÃºmeros. Se deben mostrar cuatro resultados en pantalla. 
-//    Los nÃºmeros deben ser solicitados una Ãºnica vez.
+// 9. Hacer un programa que permita ingresar por teclado dos números y que luego muestre por pantalla la suma, 
+//    la resta, la multiplicación y la división de dichos números. Se deben mostrar cuatro resultados en pantalla. 
+//    Los números deben ser solicitados una única vez.
 
 #include <iostream>
 

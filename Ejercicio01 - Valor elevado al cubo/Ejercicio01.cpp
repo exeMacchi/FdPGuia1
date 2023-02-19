@@ -1,4 +1,4 @@
-// 1. Hacer un programa para solicitar por teclado un nÃºmero y luego devolver su valor elevado al cubo.
+// 1. Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
 
 #include <iostream>
 

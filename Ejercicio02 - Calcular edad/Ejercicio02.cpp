@@ -1,4 +1,4 @@
-// 2. Hacer un programa que permita ingresar el aÃ±o actual y el aÃ±o de la fecha de nacimiento de una persona 
+// 2. Hacer un programa que permita ingresar el año actual y el año de la fecha de nacimiento de una persona 
 //    y luego calcule y emita por pantalla su edad.
 
 #include <iostream>

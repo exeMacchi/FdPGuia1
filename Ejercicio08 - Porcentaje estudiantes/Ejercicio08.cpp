@@ -24,4 +24,3 @@ int main()
     cout << "Porcentaje de mujeres en la carrera: " << PM << "%." << endl;
     return 0;
 }
-
